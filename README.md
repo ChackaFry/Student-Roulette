@@ -1,4 +1,4 @@
-# Student-Selector
+# Student-Roulette
 A small python application to possibly improve student engagement.
 
 "sample_google_forms_output.zip" represents a standard Google Forms output .zip file
